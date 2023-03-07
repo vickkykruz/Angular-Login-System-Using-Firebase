@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-login-system-ec163": {
+      "hosting": {
+        "angular-login-system": [
+          "angular-login-system-ec163"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-login-system-ec163"
+  }
+}
